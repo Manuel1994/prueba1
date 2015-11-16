@@ -1,1 +1,3 @@
-{}
+<script language="JavaScript" type="text/javascript">
+alert("este texto es el que modificas");
+</script>
