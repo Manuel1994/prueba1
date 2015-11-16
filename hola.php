@@ -1,12 +1,11 @@
 <?php
 
 
- $a = $_POST["uno"];
-$b = $_POST["dos"]
+$a = $_POST["uno"];
+$b = $_POST["dos"];
 
-$c = a + b;
+$c = $a + $b;
 
-
-echo c;
+echo $c;
 
 ?>
